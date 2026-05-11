@@ -62,6 +62,14 @@
 
 ---
 
+---
+
+## 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lamiyacodes&theme=dark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🤝 Let's Connect!
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/lamiya-zainab-5227443a3/
