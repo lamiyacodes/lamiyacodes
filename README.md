@@ -64,9 +64,23 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lamiyacodes&theme=dark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamiyacodes&theme=dark&stroke=00D9FF&fire=FF0080&sideNumbers=1572B6&currStreakNum=00D9FF&sideLabels=00D9FF&dates=00D9FF)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lamiyacodes&theme=dark&column=8&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
