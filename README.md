@@ -21,24 +21,32 @@
 
 <div align="center">
 
-**Languages:** Python • HTML5 • CSS3 • JavaScript
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**ML/Data Science:** TensorFlow • Keras • Scikit-learn • Pandas • NumPy
+### ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Visualization:** Matplotlib • Seaborn • Gradio
+### Visualization & Tools
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FB7500?style=for-the-badge&logo=gradio&logoColor=white)
 
-**Tools & Platforms:** Google Colab • Hugging Face • GitHub • VS Code • Jupyter
+### Platforms & Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
-
----
-
-## 🏆 GitHub Achievements
-
-- **51** Total Contributions (Feb 2022 - Present)
-- **Intermediate Developer** 👨‍💻
-- **Middle Committer** & **Middle Repo Creator** 🎖️
-- **Certifications:** Accenture • Deloitte • AWS • Oracle Cloud • HackerRank Python
 
 ---
 
@@ -57,15 +65,11 @@
 ## 🤝 Let's Connect!
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/lamiya-zainab-5227443a3/
-- 📧 **Email:** lamiyazainab313@gmaol.com
-- 🚀 **Hugging Face:** [@lamiyacodes](https://huggingface.co/lamiyacodes)
 
 ---
 
 <div align="center">
 
 **✨ Currently exploring AI solutions that solve real problems ✨**
-
-**Feel free to check my repositories below!** 👇
 
 </div>
