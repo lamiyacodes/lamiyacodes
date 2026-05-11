@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there 👋 I'm Lamiya
 
-<!--
-**lamiyacodes/lamiyacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BCA Student passionate about AI & ML  
+📚 Currently learning Python, Data Science & Web Development  
+✨ Building projects one commit at a time
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,html,css,git,github,vscode,tensorflow)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+![Lamiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamiyacodes&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=lamiyacodes&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lamiyacodes&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
