@@ -11,8 +11,8 @@
 
 ## 🚀 Currently Working On
 
-- 📚 **2nd Year BCA** (Graduating 2027)
-- 🤖 **GSSoC 2024** - GirlScript Summer of Code (AI/Agents Track)
+- 📚 **3nd Year BCA** (Graduating 2027)
+- 🤖 **GSSoC 2026** - GirlScript Summer of Code (AI/Agents Track)
 - 🌱 Learning Advanced Python, TensorFlow, Deep Learning architectures
 
 ---
