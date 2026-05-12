@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Lamiya!
+# Hey there, I'm Lamiya!
 
 <div align="center">
 
