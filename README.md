@@ -76,14 +76,11 @@
 
 ---
 
-## ## 🏆 Achievements
+## ## 🏆 GitHub Milestones
 
-- ⭐ **67** Total Contributions
-- 🔥 **1** Current Streak (Jun 14)
-- 🎯 **8** Longest Streak (Feb-26)
-- 💪 **Intermediate Developer** Badge
-- 🎖️ **Middle Committer** Badge
-- 📚 **Middle Repo Creator** Badge
+![67 Contributions](https://img.shields.io/badge/Total%20Contributions-67-brightgreen?style=flat-square)
+![Intermediate Dev](https://img.shields.io/badge/Level-Intermediate%20Developer-blue?style=flat-square)
+![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 ---
 
 ## 🤝 Let's Connect!
