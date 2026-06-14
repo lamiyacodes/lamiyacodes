@@ -78,7 +78,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lamiyacodes&theme=dark&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=lamiyacodes&theme=dark&no-frame=false&margin-w=4)
 
 ---
 
