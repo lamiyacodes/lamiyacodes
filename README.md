@@ -76,11 +76,14 @@
 
 ---
 
-## ## 🏆 GitHub Milestones
+## ## 🏆 My Achievements
 
-![67 Contributions](https://img.shields.io/badge/Total%20Contributions-67-brightgreen?style=flat-square)
-![Intermediate Dev](https://img.shields.io/badge/Level-Intermediate%20Developer-blue?style=flat-square)
-![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![](https://img.shields.io/badge/Contributions-67-blue?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Current%20Streak-1%20Day-orange?style=for-the-badge&logo=fire)
+![](https://img.shields.io/badge/Longest%20Streak-8%20Days-green?style=for-the-badge&logo=calendar)
+![](https://img.shields.io/badge/Experience-Intermediate%20Dev-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Commits-Middle%20Committer-gold?style=for-the-badge)
+![](https://img.shields.io/badge/Repos-Middle%20Creator-cyan?style=for-the-badge)
 ---
 
 ## 🤝 Let's Connect!
