@@ -76,10 +76,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## ## 🏆 Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=lamiyacodes&theme=dark&no-frame=false&margin-w=4)
-
+- ⭐ **67** Total Contributions
+- 🔥 **1** Current Streak (Jun 14)
+- 🎯 **8** Longest Streak (Feb-26)
+- 💪 **Intermediate Developer** Badge
+- 🎖️ **Middle Committer** Badge
+- 📚 **Middle Repo Creator** Badge
 ---
 
 ## 🤝 Let's Connect!
