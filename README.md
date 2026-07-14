@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Currently Working On
+## Currently Working On
 
 - 📚 **3rd Year BCA** (Graduating 2027)
 - 🤖 **GSSoC 2026** - GirlScript Summer of Code (AI/Agents Track)
